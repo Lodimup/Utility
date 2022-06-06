@@ -1,5 +1,5 @@
 """
-Generates numeric OTP with length len
+Generates numeric OTP with length len.
 """
 
 import random
