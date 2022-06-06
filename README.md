@@ -9,7 +9,7 @@ Generates tracking number string with correct chuch_digit given str_num: ex: '02
 Works with Thailand Post.  
 
 ## comma_separate_number
-Demonstrates how to separate string representation using , every 3 digits of number using f string
+Demonstrates how to separate string representation using , every 3 digits of number using f string.
 
 ## chicken_or_egg
-Demonstrates which comes first, chicken or egg. 
+Demonstrates which comes first, chicken or egg.
