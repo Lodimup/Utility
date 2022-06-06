@@ -1,3 +1,7 @@
+"""
+Demonstrates which comes first, chicken or egg.
+"""
+
 def chicken_or_egg():
     arr = ['🥚', '🐔']
     arr.sort()
